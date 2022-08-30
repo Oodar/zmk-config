@@ -14,7 +14,7 @@
             label = "layer_with_rbb";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&rgb_ug RGB_HUI &kp ESC>
+            bindings = <&rgb_ug RGB_HUI &kp ESC>;
         };
     };
 
