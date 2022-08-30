@@ -9,8 +9,8 @@
 
 / {
     macros {
-        layer_with_rgb : layer_with_rgb {
-            label = "ZM_layer_with_rgb";
+        layer_with_rgb: layer_with_rgb {
+            label = "layer_with_rbb";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&rgb_ug RGB_HUI &kp ESC>
