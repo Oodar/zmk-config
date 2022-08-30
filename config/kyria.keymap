@@ -16,9 +16,7 @@
             bindings = <&rgb_ug RGB_HUI &kp ESC>
         };
     };
-};
 
-/ {
 	keymap {
 		compatible = "zmk,keymap";
 
